@@ -1,0 +1,15 @@
+select * from gmall.dwd_active_background_log limit 10;
+select * from gmall.dwd_active_foreground_log limit 10;
+select * from gmall.dwd_ad_log limit 10;
+select * from gmall.dwd_base_event_log limit 10;
+select * from gmall.dwd_comment_log limit 10;
+select * from gmall.dwd_display_log limit 10;
+select * from gmall.dwd_error_log limit 10;
+select * from gmall.dwd_favorites_log limit 10;
+select * from gmall.dwd_loading_log limit 10;
+select * from gmall.dwd_newsdetail_log limit 10;
+select * from gmall.dwd_notification_log limit 10;
+select * from gmall.dwd_praise_log limit 10;
+select * from gmall.dwd_start_log limit 10;
+select * from gmall.ods_event_log limit 10;
+select * from gmall.ods_start_log limit 10;

@@ -1,0 +1,5 @@
+type=command
+do_date=${dt}
+dependencies=ads
+command=/home/atguigu/bin/sqoop_export.sh all ${do_date}
+ 

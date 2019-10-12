@@ -1,0 +1,35 @@
+{
+  "cm": {
+    "ln": "-85.4",
+    "sv": "V2.8.7",
+    "os": "8.2.5",
+    "g": "HF7A7385@gmail.com",
+    "mid": "m3903",
+    "nw": "WIFI",
+    "l": "es",
+    "vc": "12",
+    "hw": "1080*1920",
+    "ar": "MX",
+    "uid": "u7100",
+    "t": "1570665850725",
+    "la": "11.0",
+    "md": "sumsung-9",
+    "vn": "1.0.1",
+    "ba": "Sumsung",
+    "sr": "M"
+  },
+  "ap": "gmall",
+  "et": [
+    {
+      "ett": "1570668401843",
+      "en": "start",
+      "kv": {
+        "entry": "1",
+        "loading_time": "0",
+        "action": "1",
+        "open_ad_type": "2",
+        "detail": ""
+      }
+    }
+  ]
+}

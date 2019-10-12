@@ -1,0 +1,5 @@
+type=command
+do_date=${dt}
+dependencies=dwd
+command=/home/atguigu/bin/dws_sale.sh ${do_date}
+ 

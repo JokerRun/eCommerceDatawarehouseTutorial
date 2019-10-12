@@ -1,0 +1,4 @@
+type=command
+do_date=${dt}
+command=/home/atguigu/bin/sqoop_import.sh all ${do_date}
+ 

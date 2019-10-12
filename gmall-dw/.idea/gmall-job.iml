@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="DBE_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../2.资料/03_数据库生成脚本" />
+    <content url="file://$MODULE_DIR$/mysql-data-mocker" />
+    <content url="file://$MODULE_DIR$/hive-ddl" />
+    <content url="file://$MODULE_DIR$/shell" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
