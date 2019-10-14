@@ -12,7 +12,7 @@ else
 fi
 
 sql="
-	add jar /nfs/data/rico/hivefunction-1.0-SNAPSHOT.jar;
+	add jar /nfs/data/rico/hive-function-1.0-SNAPSHOT.jar;
 	create temporary function base_analizer as 'com.atguigu.udf.BaseFieldUDF';
 	create temporary function flat_analizer as 'com.atguigu.udtf.EventJsonUDTF';
 

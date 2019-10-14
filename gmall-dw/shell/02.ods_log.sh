@@ -16,5 +16,5 @@ load data inpath '/origin_data/gmall/log/topic_start/$do_date' into table "$APP"
 
 load data inpath '/origin_data/gmall/log/topic_event/$do_date' into table "$APP".ods_event_log partition(dt='$do_date');
 "
-
+echo "$sql"
 $hive -e "$sql"

@@ -2,7 +2,7 @@
 
 # 定义变量方便修改
 APP=gmall
-hive=/opt/module/hive/bin/hive
+hive=/usr/bin/hive
 
 # 如果是输入的日期按照取输入日期；如果没输入日期取当前时间的前一天
 if [ -n "$1" ] ;then
@@ -46,5 +46,5 @@ join
    where mn=date_format('$do_date','yyyy-MM')
 )mncount on daycount.dt=mncount.dt;
 "
-
+echo "$sql"
 $hive -e "$sql"
