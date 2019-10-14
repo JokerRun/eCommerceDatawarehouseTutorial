@@ -1,2 +1,21 @@
 -- 生成日期2019年10月12日数据、订单1000个、用户200个、商品sku300个、删除原始数据。
-CALL init_data('2019-10-14',1000,10,10,true);
+CALL init_data('2019-10-01', 1000, 10, 10, true);
+CALL init_data('2019-10-02', 1000, 0, 0, false);
+CALL init_data('2019-10-03', 1000, 0, 0, false);
+CALL init_data('2019-10-04', 1000, 0, 0, false);
+CALL init_data('2019-10-05', 1000, 0, 0, false);
+CALL init_data('2019-10-06', 1000, 0, 0, false);
+CALL init_data('2019-10-07', 1000, 0, 0, false);
+CALL init_data('2019-10-08', 1000, 0, 0, false);
+CALL init_data('2019-10-09', 1000, 0, 0, false);
+CALL init_data('2019-10-10', 1000, 0, 0, false);
+CALL init_data('2019-10-11', 1000, 0, 0, false);
+CALL init_data('2019-10-12', 1000, 0, 0, false);
+CALL init_data('2019-10-13', 1000, 0, 0, false);
+CALL init_data('2019-10-14', 1000, 0, 0, false);
+CALL init_data('2019-10-15', 1000, 0, 0, false);
+CALL init_data('2019-10-16', 1000, 0, 0, false);
+CALL init_data('2019-10-17', 1000, 0, 0, false);
+CALL init_data('2019-10-18', 1000, 0, 0, false);
+CALL init_data('2019-10-19', 1000, 0, 0, false);
+CALL init_data('2019-10-20', 1000, 0, 0, false);
